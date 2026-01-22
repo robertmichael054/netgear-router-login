@@ -9,7 +9,7 @@ Netgear routers are among the most widely used networking devices for homes and 
 
 
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
